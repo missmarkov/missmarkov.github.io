@@ -1,0 +1,213 @@
+Ovako sam ja shvatila: 
+
+od tih 49.875,00 kn, naših sredstava ide 18.675,00 kn, ostatak povlaèimo iz fondova. Prvo moramo platiti ukupan iznos Digitaliji, a potom na temelju vauèera(za èije potpisivanje Ugovora èekamo poziv agencije) na Ministarstvo gospodarstva(PT1) šaljemo zahtjev za nadoknadu sredstava i povlaèimo 31.200,00kn - najkasnije 60 dana od dana kad predamo zahtjev dobivamo sredstva.
+
+Pitali smo Malnara da li bismo iz tih sredstava mogli namiriti i konzultante, koliko se sjeæam, složio se s time, a konzultantske usluge ukupno za trajanja projekta(mislim da 2 godine, to moram provjeriti s Jakšiæem, moraju pisat izvješæa o napretku projekta i koristi koju imamo od sredstava i kak smo ih utrošili) ukupno plaæamo 15.125,00 kn, od toga smo isplatili veæ 7.875,00kn, ostaje 7.250,00kn za platiti konzultantima.
+
+Kad smo predavali prijavu, tebe je Malnar zvao, pa sam mislila da ti je izložil zašto toliko poveæanje troškova, ovo je kak sam ja shvatila: u poèetnoj ponudi, oni su predvidjeli èisto prezentacijsku stranicu od max.5 kartica teksta, bez video zapisa, testimonijala koje je nedavno napomenul, interaktivnih videa s objašnjenjem uporabe i koristi od aplikacije. Ne bi nam vodili marketinšku kampanju niti pratili analitiku stranice, tko je i koliko posjeæuje, podrazumjeli su i neki oblik oglašavanja i optimizaciju stranice za razne ureðaje(responzivni dizajn ovisno o velièinama ureðaja koje korisnik koristi). U poèetnoj nisu predvidjeli ni trošak najma servera ni zakup internet domene, kao ni oglašavanje na našoj postojeæoj stranici tvrtke, i nisu predvidjeli uspostavu CMS-a(sustava za upravljanje sadržajem, jer koliko sam shvatila, oni bi još nekoliko mjeseci kasnije nadopunjavali sadržaj na stranici objavom vijesti vezanih uz korisnike i prodaju naše aplikacije - vodili bi oglašavanje i pratili rezultate) ni edukaciju nas kao korisnika za korištenje tog CMS-a da se po isteku projekta sami možemo snalazit i radit kaj bude trebalo. Èini mi se da je poèetna ponuda bila za više statièan sadržaj, na foru mi æemo vam napravit to, a vi se dalje snalazite, a sad bi se stranica i sadržaj razvijao dalje s aplikacijom još neko vrijeme, a na temelju njihove analitike. Koliko vidim, podrazumijevaju i voðenje izvještaja koje smo dužni podnositi kao korisnici sredstava iz fondova i opæenito svega vezanog uz to, pa se s tim nebi trebali zajebavat više. Ja æu to još sve provjeriti sutra s Malnarom. 
+
+Znam da je iznos od 32000 kn za njihov rad prilièan(bez najma hostinga i konzultantskih usluga), ali kad sam slala upit na druge marketinpe agencije, jedni su mi odgovorili s iznosom od 18000 kn samo za web sadržaj i izradu loga, bez kasnije suradnje, upravljanja projektom i nadogradnje.
+
+Ak još nekaj nije jasno, 
+
+
+
+
+
+Dana 2019-01-09 18:54, Mario Kranjec je napisao(la):
+> Jelena,
+> 
+> Kaj mi dobivamo vise za 49000kn u odnosu na onih 6000 sto smo
+> dogovorili, trebali bi dobiti nesto 8 put vise u odnosu na ono sto nam
+> je bilo dovoljno? Koliko bumo jos morali platiti Jaksicu?
+> 
+> ______________________________Direktor
+> Mario Kranjec, dipl. ing. geod.
+> gsm: 099/807-3301 [2]
+> e-mail: mario@gromatic.hr
+> 
+> Gromatic KR d.o.o.
+> web: www.gromatic.hr [3]
+> e-mail: gromatic@gromatic.hr
+> 
+> Tvrtka:
+> Vladimira Nazora 65 [4]
+> 49 247 Zlatar Bistrica [4]
+> tel./fax: 049/461-068 [5]
+> 
+> Podružnica:
+> Kralja Zvonimira 18 [6]
+> 22 000 Šibenik [6]
+> tel./fax: 022/212-062 [7]
+> 
+> 09.01.2019., u 14:28, korisnik Jelena Markoviæ
+> <jelena.markovic@gromatic.hr> je napisao:
+> 
+>> Ugovor u prilogu.
+>>
+>> LP
+>>
+>> Dana 2019-01-09 12:25, Mario Kranjec je napisao(la):
+>>
+>>> Nema ugovora... daj posalji i martini pa da vidimo...
+>>
+>>> ______________________________Direktor
+>>
+>>> Mario Kranjec, dipl. ing. geod.
+>>
+>>> gsm: 099/807-3301 [2]
+>>
+>>> e-mail: mario@gromatic.hr
+>>
+>>> Gromatic KR d.o.o.
+>>
+>>> web: www.gromatic.hr [1] [3]
+>>
+>>> e-mail: gromatic@gromatic.hr
+>>
+>>> Tvrtka:
+>>
+>>> Vladimira Nazora 65 [4]
+>>
+>>> 49 247 Zlatar Bistrica [4]
+>>
+>>> tel./fax: 049/461-068 [5]
+>>
+>>> Podružnica:
+>>
+>>> Kralja Zvonimira 18 [6]
+>>
+>>> 22 000 Šibenik [6]
+>>
+>>> tel./fax: 022/212-062 [7]
+>>
+>>> 08.01.2019., u 15:46, korisnik Jelena Markoviæ
+>>
+>>> <jelena.markovic@gromatic.hr> je napisao:
+>> Šaljem ugovor u privitku, složen prema Prilogu 4. o minimalnom
+> 
+>>> sadržaju ugovora izmeðu pružatelja i korisnika usluga na
+>>> temelju
+> 
+>>> vauèera.
+> 
+>>> Plavi tekst je ono što sam ispunila, vidi ako želiš nešto
+> 
+>>> dodati(može se pod èlanak 1.), buduæi da je meni ovo prvi
+>>> ugovor
+> 
+>>> takve vrste. Izostavila sam nadležni sud, to budu konzultanti
+> 
+>>> valjda ispunilli.
+> 
+>>> Ispunjavala sam prema prvotnoj verziji prijave jer završnu
+>>> verziju
+> 
+>>> uploadanu u sustav nemam, ali Ugovor još ide Jakšiæu na pregled
+> 
+>>> pa æe oni ispravit ako je nešto pogrešno.
+> 
+>>> Èujemo se kasnije da prokomentiramo.
+> 
+>>> LP,
+> 
+>>> Jelena
+> 
+>>> --
+> 
+>>> Jelena Markoviæ, mag. ing. geod. i geoinf.
+> 
+>>> gsm: 091/140-3235
+> 
+>>> e-mail: jelena.markovic@gromatic.hr
+> 
+>>> Gromatic KR d.o.o.
+> 
+>>> web: www.gromatic.hr [1] [1]
+> 
+>>> e-mail: gromatic@gromatic.hr
+> 
+>>> Tvrtka:
+> 
+>>> Vladimira Nazora 65
+> 
+>>> 49 247 Zlatar Bistrica
+> 
+>>> tel./fax: 049/461-068
+> 
+>>> Podružnica:
+> 
+>>> Kralja Zvonimira 18
+> 
+>>> 22 000 Šibenik
+> 
+>>> tel./fax: 022/212-062
+> 
+>> Links:
+> 
+>> ------
+> 
+>> [1] http://www.gromatic.hr
+> 
+>> [2] tel:099/807-3301
+> 
+>> [3] http://www.gromatic.hr/
+> 
+>> [4] x-apple-data-detectors://2/0
+> 
+>> [5] tel:049/461-068
+> 
+>> [6] x-apple-data-detectors://3/0
+> 
+>> [7] tel:022/212-062
+> 
+> -- 
+> Jelena Markoviæ, mag. ing. geod. i geoinf.
+> gsm: 091/140-3235
+> e-mail: jelena.markovic@gromatic.hr
+> 
+> Gromatic KR d.o.o.
+> web: www.gromatic.hr [1]
+> e-mail: gromatic@gromatic.hr
+> 
+> Tvrtka:
+> Vladimira Nazora 65
+> 49 247 Zlatar Bistrica
+> tel./fax: 049/461-068
+> 
+> Podružnica:
+> Kralja Zvonimira 18
+> 22 000 Šibenik
+> tel./fax: 022/212-062
+> 
+>> <Prilog4.docx>
+>  
+> 
+> Links:
+> ------
+> [1] http://www.gromatic.hr
+> [2] tel:099/807-3301
+> [3] http://www.gromatic.hr/
+> [4] x-apple-data-detectors://2/0
+> [5] tel:049/461-068
+> [6] x-apple-data-detectors://3/0
+> [7] tel:022/212-062
+
+-- 
+Jelena Markoviæ, mag. ing. geod. i geoinf.
+gsm: 091/140-3235
+e-mail: jelena.markovic@gromatic.hr
+
+Gromatic KR d.o.o.
+web: www.gromatic.hr
+e-mail: gromatic@gromatic.hr
+
+Tvrtka:
+Vladimira Nazora 65
+49 247 Zlatar Bistrica
+tel./fax: 049/461-068
+
+Podružnica:
+Kralja Zvonimira 18
+22 000 Šibenik
+tel./fax: 022/212-062

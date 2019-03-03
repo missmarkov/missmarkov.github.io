@@ -148,9 +148,13 @@ nav a:hover {
   padding: 0;
 }
 .card-img{
+  border-radius: 0;
   float: left;
-  width: 20%;
   margin-right: 2%;
+  width: 20%;  
+}
+article {
+  font-size: .98rem;
 }
 article > p {
   margin: 2em 0;

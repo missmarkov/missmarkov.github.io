@@ -1,0 +1,211 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 2. 
+    v2.0 | 20110126
+  License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+    line-height: 1;
+  }
+  ol, ul {
+    list-style: none;
+  }
+  blockquote, q {
+    quotes: none;
+  }
+  blockquote:before, blockquote:after,
+  q:before, q:after {
+    content: '';
+    content: none;
+  }
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  a, a:hover {
+    text-decoration: none;
+}
+*{
+    box-sizing: border-box;
+}
+/*
+  ========================================
+  Custom styles
+  ========================================
+*/
+body {
+  background: rgba(220, 220, 220, 0.3);
+    font: 300 1em/1.25em "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, san-serif;
+    color: rgb(15, 15, 15);    
+   
+}
+header {
+    height: 5em;    
+    text-transform: uppercase;    
+}
+.container {
+    display: block;  
+    width: 100%;
+}
+header, main{
+  display: block;
+  float: left;
+  width: 100%;
+}
+/*
+  ========================================
+  Typography
+  ========================================
+*/
+h1, h2, h3 {
+    color: rgb(15, 15, 15);
+    font-family: "open-sans", sans-serif;
+    font-weight: 400;
+}
+ h3 {
+    margin-bottom: .75em;
+}
+h1 {    
+    font-size: 2em;    
+    letter-spacing: 1.2px;
+    line-height: 2.25em;    
+}
+h2 {
+    font-size: 1rem;
+    letter-spacing: .2px;
+    line-height: 1.5rem;    
+}
+
+/*
+  ========================================
+  Custom Headers
+  ========================================
+*/
+
+.grayscale {
+  background-image: url("../img/prim-header-bw.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin: 0;
+    padding: 0;
+    /*
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  */  
+}
+.gray {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+.navbar-header h1 {
+  display: inline;
+}
+nav {
+    float: left;
+    width: 100%;
+}
+nav a {
+    color: #ffe7e7;
+    line-height: 1.5em;
+    font-size: 1em;
+    padding: .33em .375em;
+}
+nav a:hover {
+    color: rgb(163, 158, 158);
+}
+.row {
+  margin: 0;
+}
+.col-sm-12 {
+  margin: 0;
+  padding: 0;
+}
+.card {
+  background: rgba(220, 220, 220, 0.3)
+}
+.card:hover {
+  background: rgba(140, 140, 140, 0.1)
+}
+.card-img{
+  -webkit-filter: contrast(1.1);
+  filter: contrast(1.1);
+  border: 1px solid white;
+  border-radius: 0;
+  float: left;
+  margin: .2rem .4rem;
+  object-fit: cover;
+  object-position: 100% ;
+  max-width: 30%; 
+  max-height: 150px;
+}
+.card-title{
+  font-size: .95rem;
+}
+.card-text {
+  font-size: .85rem;
+}
+article {
+  font-size: .9rem;
+}
+article > p {
+  margin: 1rem 0;
+}
+.navbar-togller{
+  margin:0;
+  padding:0;
+}
+navbar-collapse {
+  background-color: rgba(180,180,180,0.5);
+}
+
+@media screen and (min-width: 768px){
+  header {
+    height: 8em;
+  }
+  body{
+    padding: 0;
+  }
+}
+@media screen and (min-width: 992px){
+  header {
+    height: 10em;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  }
+}
+@media screen and (min-width: 1200px){
+  header {
+    height: 10em;
+  }
+  body{
+    padding: 0 1em;
+  }
+}

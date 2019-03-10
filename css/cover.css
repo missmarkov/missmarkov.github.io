@@ -1,0 +1,118 @@
+
+*{
+    box-sizing: border-box;
+}
+/*
+  ========================================
+  Custom styles
+  ========================================
+*/
+body {
+    background-color: #ffffff;
+    font: 300 1em/1.25em "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, san-serif;
+    color: rgb(15, 15, 15);    
+    height: 100%;    
+    margin: 0;
+    padding: 0;   
+}
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+ 
+.cover-img{
+    background: url('../img/prim-header.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%;
+}
+.gray {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+  .caption {
+      position: absolute;
+      left: 0;
+      top: 50%;
+      width: 100%;
+      text-align: center;
+      color: #000;
+  }
+  .caption .border {
+      background-color:#111;
+      color:#fff;
+      padding: 1rem .5rem;
+        font-size: 1.2rem;
+        letter-spacing: .5rem;
+      
+  }
+.navbar-custom {
+    position: absolute;
+    left:0;
+    text-align: center;
+    top: 65%; 
+    width: 100%;  
+    color: #000;     
+}
+.navbar-custom span.border {
+    display: block;
+    background: rgba(255, 255, 255, 0.1);
+    border: none!important;
+    font-size: .9rem;
+        margin: .1rem .2rem;
+    font-weight: 300;
+    letter-spacing: .3rem;
+    
+    padding: .2rem;
+    cursor: pointer;
+}
+.navbar-custom span.border:hover {
+    background: rgba(255, 255, 255, .3);
+}
+a, a:hover {
+    color: #000;
+    text-decoration: none;
+}
+@media screen and (min-width:576px){
+    .caption span.border {
+        padding: 1.2rem;
+      font-size: 1.5rem;
+      letter-spacing: .8rem;
+    }
+    .navbar-custom span.border {
+        display: inline;
+        font-size: 1.1rem;
+    margin: .2rem .4rem;
+        
+    }
+}
+
+/*
+  ========================================
+  Typography
+  ========================================
+*/
+h1, h2, h3 {
+    color: rgb(215, 215, 215);
+    font-family: "open-sans", sans-serif;
+    font-weight: 100!important;
+}
+h1 > span {
+    font-weight: 100;
+}
+ h3 {
+    margin-bottom: .75em;
+}
+h1 {    
+    font-size: 2em;    
+    letter-spacing: 1.2px;
+    line-height: 2.25em;  
+    margin: 0;
+    padding: 0;  
+}
+h2 {
+    font-size: 1.5em;
+    line-height: 31px;    
+}
